@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="rgb(112, 66, 20)" />
+  <text x="50%" y="75%" text-anchor="middle" fill="white" font-size="48" font-family="Roboto, sans-serif" font-weight="bold">
+    JS
+  </text>
+</svg>
